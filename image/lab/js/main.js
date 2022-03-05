@@ -157,7 +157,7 @@ new Vue({
 							hide: [],
 							url: 'https://www.hovthen.com/',
 							target: '_self',
-							cover: './assets/image/website_boke.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/website_boke.png',
 							chip: null
 						},
 						{
@@ -167,7 +167,7 @@ new Vue({
 							hide: [],
 							url: 'https://tool.hovthen.com/',
 							target: '_self',
-							cover: './assets/image/website_tool.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/website_tool.png',
 							chip: null
 						},
 						{
@@ -177,7 +177,7 @@ new Vue({
 							hide: [],
 							url: 'https://down.hovthen.com',
 							target: '_blank',
-							cover: './assets/image/cloud_onedrive.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/cloud_onedrive.png',
 							chip: null
 						}
 					]
@@ -195,7 +195,7 @@ new Vue({
 							hide: [],
 							url: 'https://tool.hovthen.com/YesPlayMusic',
 							target: '_self',
-							cover: './assets/image/music_online.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/music_online.png',
 							chip: null
 						},
 						{
@@ -205,7 +205,7 @@ new Vue({
 							hide: [],
 							url: './pages/video-vurl/',
 							target: '_blank',
-							cover: './assets/image/video_vurl.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/video_vurl.png',
 							chip: null
 						},
 						{
@@ -215,7 +215,7 @@ new Vue({
 							hide: [],
 							desc: 'Video Spider 全网短视频去水印',
 							target: '_blank',
-							cover: './assets/image/video_short.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/video_short.png',
 							chip: null
 						},
 						{
@@ -225,7 +225,7 @@ new Vue({
 							hide: [],
 							url: 'https://tool.hovthen.com/unlock-music',
 							target: '_self',
-							cover: './assets/image/music_unlock.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/music_unlock.png',
 							chip: null
 						},
 						{
@@ -235,7 +235,7 @@ new Vue({
 							hide: [],
 							url: './pages/bing/',
 							target: '_self',
-							cover: './assets/image/bing_view.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/bing_view.png',
 							chip: null
 						},
 						{
@@ -245,7 +245,7 @@ new Vue({
 							hide: [],
 							url: 'https://tool.hovthen.com/MyFreeMP3',
 							target: '_blank',
-							cover: './assets/image/music_online2.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/music_online2.png',
 							chip: '友情链接'
 						}
 					]
@@ -272,7 +272,7 @@ new Vue({
 							hide: [],
 							url: './pages/checkin-163/',
 							target: '_blank',
-							cover: './assets/image/music_netease.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/music_netease.png',
 							chip: null
 						}
 					]
@@ -291,7 +291,7 @@ new Vue({
 							hide: ['title'],
 							url: 'https://d.icdown.club/',
 							target: '_blank',
-							cover: './assets/image/cloud_utermux.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/cloud_utermux.png',
 							chip: '友情链接'
 						},
 						{
@@ -301,7 +301,7 @@ new Vue({
 							hide: ['title','desc'],
 							url: 'https://wwi.lanzoux.com/b05gwbx7a',
 							target: '_blank',
-							cover: './assets/image/app_juapp8.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/app_juapp8.png',
 							chip: '友情链接'
 						},
 						{
@@ -311,7 +311,7 @@ new Vue({
 							hide: ['title','desc'],
 							url: 'https://down.52pojie.cn/',
 							target: '_blank',
-							cover: './assets/image/website_52pojie.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/website_52pojie.png',
 							chip: '友情链接'
 						},
 						{
@@ -321,7 +321,7 @@ new Vue({
 							hide: [],
 							url: 'javascript:void(0)',
 							target: '_blank',
-							cover: './assets/image/cloud_lanzou.png',
+							cover: 'https://fastly.jsdelivr.net/gh/Hovthen/Piclibs@main/image/lab/image/cloud_lanzou.png',
 							chip: null
 						}
 					]
